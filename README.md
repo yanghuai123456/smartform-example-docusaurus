@@ -1,4 +1,4 @@
-# SmartForm + Docusaurus
+# Docusaurus contact form — Formspree alternative with AI spam filtering
 
 Add a contact form to your [Docusaurus](https://docusaurus.io) site backed by
 [SmartForm AI](https://usesmartform.com).
